@@ -3,7 +3,7 @@
 - This will update throughout the Winter 2025 Semester
 
 ## University of Regina
-Lab Instructor: Adam Tilson
+**Lab Instructor:** Adam Tilson
 
 ## Tools that I have used during my Labs:
 - Figma
