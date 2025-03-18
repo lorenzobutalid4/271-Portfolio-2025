@@ -6,6 +6,12 @@
 **Lab Instructor:** Adam Tilson
 
 ## Tools that I have used during my Labs:
-- Figma
-- WordPress
+- Figma (UX/UI Design)
+- WordPress (Content Management System)
+- StoriesOnBoard (User Story Mapping)
 - Microsoft Excel
+
+## License
+- These labs were developed for academic purposes under the University of Regina.
+
+
